@@ -1,0 +1,9 @@
+title: You should KYS... NOW.
+originalAuthor: CoreySG9
+game: kh2
+description: Replaces Final Xemnas' dome voicelines with instructions from LowTierGod.
+assets:
+- name: remastered/obj/B_EX170_LAST_LV99.a.us/voice/battle/us/n_xemnas_last
+  method: copy
+  source:
+  - name: remastered/obj/B_EX170_LAST_LV99.a.us/voice/battle/us/n_xemnas_last
